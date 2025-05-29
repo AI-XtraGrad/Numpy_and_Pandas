@@ -1,0 +1,7 @@
+ID;Address;City;State;Country;Name;Employees
+1;500001 21 St;Hyderabad;Telangana;IN;Krishna Store;8
+2;500002 Gachibowli 25 St;Hyderabad;Telangana;IN;Vinay Medicals;15
+3;500003 Vijayawada 20 St;Vijayawada;AP;IN;Mamtha Store;25
+4;500004 Kukatpally 25 St;Hyderabad;Telangana;IN;Sarvani’s Shop;10
+5;500006 Vizag 36 St;Vizag;AP;IN;Vignesh Store;12
+6;500007 Hitexcity 50 St;Hyderabad;Telangana;IN;SriHarsh Store;20

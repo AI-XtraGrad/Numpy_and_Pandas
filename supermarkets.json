@@ -1,0 +1,56 @@
+[
+ {
+   "ID": 1,
+   "Address": "500001 21 St",
+   "City": "Hyderabad",
+   "State": "Telangana",
+   "Country": "IN",
+   "Name": "Krishna Store",
+   "Employees": 8
+ },
+ {
+   "ID": 2,
+   "Address": "500002 Gachibowli 25 St",
+   "City": "Hyderabad",
+   "State": "Telangana",
+   "Country": "IN",
+   "Name": "Vinay Medicals",
+   "Employees": 15
+ },
+ {
+   "ID": 3,
+   "Address": "500003 Vijayawada 20 St",
+   "City": "Vijayawada",
+   "State": "AP",
+   "Country": "IN",
+   "Name": "Mamtha Store",
+   "Employees": 25
+ },
+ {
+   "ID": 4,
+   "Address": "500004 Kukatpally 25 St",
+   "City": "Hyderabad",
+   "State": "Telangana",
+   "Country": "IN",
+   "Name": "Sarvani’s Shop",
+   "Employees": 10
+ },
+ {
+   "ID": 5,
+   "Address": "500006 Vizag 36 St",
+   "City": "Vizag",
+   "State": "AP",
+   "Country": "IN",
+   "Name": "Vignesh Store",
+   "Employees": 12
+ },
+ {
+   "ID": 6,
+   "Address": "500007 Hitexcity 50 St",
+   "City": "Hyderabad",
+   "State": "Telangana",
+   "Country": "IN",
+   "Name": "SriHarsh Store",
+   "Employees": 20
+ }
+]
